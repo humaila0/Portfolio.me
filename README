@@ -1,0 +1,13 @@
+Humaila's Portfolio — plain HTML & CSS
+Deploy to GitHub Pages in 2 minutes:
+
+Create a new GitHub repository (e.g. portfolio).
+Upload both files (index.html and styles.css) to the repo root.
+Go to Settings → Pages → under "Source" pick Deploy from a branch → branch main, folder / (root) → Save.
+Your site goes live in a minute or two at https://<your-username>.github.io/portfolio/.
+Tip: use index.html exactly as the name (lowercase) — it's the default file GitHub Pages serves.
+
+Before you publish
+Replace the two GitHub/LinkedIn placeholder links in index.html (search for https://github.com/ and https://www.linkedin.com/) with your real profile URLs — they appear in the hero and the footer.
+Everything else (email, phone, content) is already filled in from your resume.
+No JavaScript, no build step — just two files.
